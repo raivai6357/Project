@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "80445844108",
+    "project_id": "oddjobber-198cf",
+    "storage_bucket": "oddjobber-198cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80445844108:android:065563a6ad90b69abf29a9",
+        "android_client_info": {
+          "package_name": "com.example.oddjobber2.oddjobber2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80445844108-famain45o7gkvsn6kh82fnj6dg9gv2nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oddjobber2.oddjobber2",
+            "certificate_hash": "de08fa006e02d6719247a33cc2cf605d825850f3"
+          }
+        },
+        {
+          "client_id": "80445844108-eq7jfgogina114c1an1td1nqff3lk144.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtzoYiBjMH4u64YzMe_Pn9pADXj9VKBL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80445844108-eq7jfgogina114c1an1td1nqff3lk144.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
